@@ -1,0 +1,22 @@
+{
+  "name": "alexa-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwesiD/alexa-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwesiD/alexa-hello-world/issues"
+  },
+  "homepage": "https://github.com/KwesiD/alexa-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
