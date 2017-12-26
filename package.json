@@ -1,5 +1,5 @@
 {
-  "name": "alexa-hello-world",
+  "name": "alexa-transit-time",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KwesiD/alexa-hello-world.git"
+    "url": "git+https://github.com/KwesiD/alexa-transit-time.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KwesiD/alexa-hello-world/issues"
+    "url": "https://github.com/KwesiD/alexa-transit-time/issues"
   },
-  "homepage": "https://github.com/KwesiD/alexa-hello-world#readme",
+  "homepage": "https://github.com/KwesiD/alexa-transit-time#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "alexa-sdk": "^1.0.10",
+    "mta-gtfs": "^1.1.0"
   }
 }
